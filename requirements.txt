@@ -1,0 +1,4 @@
+jintonic==0.0.1
+mido==1.2.9
+PyQt5==5.11.3
+python-rtmidi==1.1.2
