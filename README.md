@@ -24,7 +24,7 @@ You can set the maximum number of voices and select your MIDI input device with 
 
 The tree-view on the right will print all incoming and mapped MIDI messages.
 
-In your sampler (or wherever you're sending the mapped messages), create as many MIDI tracks as you've chosen to have voices, all on the `JI Mapper n (from)` MIDI port, and assign each track to a its own channel.
+In your sampler (or wherever you're sending the mapped messages), create as many MIDI tracks as you've chosen to have voices, all on the `JI Mapper n (from)` MIDI port, and assign each track to its own channel.
 
 ## This version ##
 
