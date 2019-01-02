@@ -10,6 +10,18 @@ JIMM uses my own Just-Intonation library [jintonic](https://github.com/inegm/jin
 
 ## Using JIMM ##
 
+Set-up a virtual environment by typing (in jimm's root directory):
+
+`virtualenv venv -p python3`
+
+Launch the virtual environment:
+
+`source venv/bin/activate`
+
+Install the requirements:
+
+`pip install -r requirements.txt`
+
 Launch JIMM by typing :
 
 `python jimm.py`
